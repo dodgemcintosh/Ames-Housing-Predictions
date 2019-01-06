@@ -56,11 +56,11 @@ For this project, I wanted to make sure I was adhering to the following principl
 
 ## Final Project Notebook
 
-The Jupyter Notebook containing both models is available here: [notebook](https://github.com/dodgemcintosh/Ames-Housing-Predictions/blob/master/Ames-Combined-Final-Notebook.ipynb)
+The Jupyter Notebook containing both models is available here: [notebook.](https://github.com/dodgemcintosh/Ames-Housing-Predictions/blob/master/Ames-Combined-Final-Notebook.ipynb)
 
 ## Project Presentation
 
-Slides for the project are available here: 
+Slides for the project are available here: [deck.](https://github.com/dodgemcintosh/Ames-Housing-Predictions/blob/master/Ames%20Predictive%20Housing%20Presentation.pdf)
 
 ## Questions and Connections
 
