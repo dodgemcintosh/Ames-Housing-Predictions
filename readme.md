@@ -11,7 +11,7 @@ The goal for this project is two-fold:
 1. Creating and iteratively refining regression and classification models
 2. Using [Kaggle](https://www.kaggle.com/) to practice the modeling process
 
-I was tasked with creating two models with the highest possible accuracy based on the Ames Housing Dataset. Those models will predict the following:
+I was tasked with creating two models with the highest possible accuracy based on the Ames Housing Dataset. Those models needed to predict the following:
 
 - The price of a house at sale (regression)
 - Whether a house sale was abnormal or not (classification)
@@ -43,8 +43,8 @@ Additionally, our class hosted two competitions on Kaggle (one for the regressio
 These are the following deliverables that I submitted for the project:
 
 1. Code for the regression and classification models, including exploratory data analysis.
-2. Multiple successful prediction submissions on the private, in-class, Kaggle competition for the regression model.
-3. Multiple successful prediction submissions on the private, in-class, Kaggle competition for the classification model.
+2. Multiple successful prediction submissions on a private Kaggle competition for the regression model.
+3. Multiple successful prediction submissions on a private Kaggle competition for the classification model.
 
 ## Project Feedback + Evaluation
 
@@ -53,6 +53,14 @@ For this project, I wanted to make sure I was adhering to the following principl
 - **Organization**:	Clearly commented, annotated and sectioned Jupyter notebook or Python script. Comments and annotations add clarity, explanation and intent to the work. Notebook is well-structured with title, author and sections. Assumptions are stated and justified.
 - **Exploratory Data Analysis**: A thorough exploratory data analysis has been conducted. Descriptive statistics, univariate and bivariate analysis, and plotting are skillfully used to explore connections across the dataset between features and targets.
 - **Modeling Process**: Skillful and correct use of cross-validation, grid search, and goodness-of-fit metrics to evaluate candidate models. Assumptions and decisions in the modeling process are stated and justified. Use of correct modeling techniques in each challenge. Data is reproducibly and reliably transformed between training and test datasets.
+
+## Final Project Notebook
+
+The Jupyter Notebook containing both models is available here: [notebook](https://github.com/dodgemcintosh/Ames-Housing-Predictions/blob/master/Ames-Combined-Final-Notebook.ipynb)
+
+## Project Presentation
+
+Slides for the project are available here: 
 
 ## Questions and Connections
 
